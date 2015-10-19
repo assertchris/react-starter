@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "systemjs": "^0.19.4",
+    "react": "^0.14.0"
+  }
+}
